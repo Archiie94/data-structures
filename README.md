@@ -1,2 +1,2 @@
 # data-structures
-A set of functions with data structures written in Typescript
+A set of data structures and additional features that might come handy in Typescript
